@@ -18,16 +18,16 @@ MonoBehaviour:
     Clip: {fileID: 0}
   - Mult: 2
     Text: Unstoppable!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 568d4f2477f6437458e0ecbf361a4bc2, type: 2}
   - Mult: 3
     Text: Wicked Sick!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 0150fe2ee4f65884aa4c1e969d89d0c9, type: 2}
   - Mult: 4
     Text: GODLIKE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 34de4a7f39a6e66439eb35c2e017d324, type: 2}
   - Mult: 5
     Text: CARNAGE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: ad460a974525c4e48af837d5ce77a699, type: 2}
   - Mult: 6
     Text: MONSTERRR!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 2a7d591f5afe9f44bb8f0f19989f3f9c, type: 2}
